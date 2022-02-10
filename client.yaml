@@ -1,0 +1,4 @@
+my:
+  greeting: hello everyone!
+  another:
+    greeting: hello from clinet yaml
