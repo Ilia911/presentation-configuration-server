@@ -1,3 +1,4 @@
 my:
   greeting: hello everyone!
 #  password: '{cipher}fd4ed4dbbe2ac2fe37a27c47416025d75057a292cd8e8af94dbe8be4888acfd6'
+  phrase: '{cipher}97e8c2d38649b94c29d71676b48e7b30dab1da19fdc3bfa9b91c13ae869c2b2e67281f9e6c06bc13bd064c66c323bc6f'
