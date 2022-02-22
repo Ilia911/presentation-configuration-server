@@ -1,3 +1,4 @@
 my:
   greeting: hello everyone!
+  encrypted: '{cipher}e4be5c4b6c7a4b1ea39a4d3996803f7b17303dad968c0e8180f5045e9852bf842774208b87933f46f27f4a2bb84a421ce4c9a61d55bfa177a471246906ad9998'
 
